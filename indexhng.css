@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://res.cloudinary.com/daogeruzn/image/upload/v1524653374/image_01.jpg.png");
+    background-size: cover;
+}
+    h1 {
+        color: #9B2525;
+        text-align: center; 
+        margin: 40px 0 0 15px;
+        font-size: 50px
+    }
+    .p1 {
+        color: whitesmoke;
+        text-align: center;
+        margin: 400px 0 0 120px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-size: 40px;
+        line-height: 42px
+    }
+     
+    .p2 {
+        margin:0 0 -45px 1000px;
+        color: white;
+        font-size: 40px;
+    }
